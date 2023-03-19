@@ -4,7 +4,7 @@
   "description": "Dark DeX",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "build": "echo \"Success\" && exit 0"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jim-othy/dextools/issues"
   },
-  "homepage": "https://github.com/jim-othy/dextools#readme"
+  "homepage": "https://github.com/jim-othy/dextools#readme",
+  "dependencies": {
+    "build": "^0.1.4"
+  }
 }
