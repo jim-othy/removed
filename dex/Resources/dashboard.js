@@ -1,1 +1,71 @@
-(function(_0x47297b,_0x1b713e){var _0x53b68c=_0x8d90,_0x241b74=_0x47297b();while(!![]){try{var _0x293adf=-parseInt(_0x53b68c(0x155))/0x1*(-parseInt(_0x53b68c(0x158))/0x2)+-parseInt(_0x53b68c(0x14f))/0x3+-parseInt(_0x53b68c(0x159))/0x4+-parseInt(_0x53b68c(0x14c))/0x5*(parseInt(_0x53b68c(0x15d))/0x6)+parseInt(_0x53b68c(0x151))/0x7+-parseInt(_0x53b68c(0x157))/0x8+-parseInt(_0x53b68c(0x15c))/0x9*(-parseInt(_0x53b68c(0x167))/0xa);if(_0x293adf===_0x1b713e)break;else _0x241b74['push'](_0x241b74['shift']());}catch(_0x529656){_0x241b74['push'](_0x241b74['shift']());}}}(_0x3a74,0x89769));function closeall(){var _0x5086f3=_0x8d90;document[_0x5086f3(0x14e)](_0x5086f3(0x169))[_0x5086f3(0x15e)][_0x5086f3(0x165)]=_0x5086f3(0x160),document[_0x5086f3(0x14e)](_0x5086f3(0x166))[_0x5086f3(0x15e)][_0x5086f3(0x165)]=_0x5086f3(0x160),document[_0x5086f3(0x14e)](_0x5086f3(0x14d))['style'][_0x5086f3(0x165)]='rgba(255,\x20255,\x20255,\x200.35)',document['getElementById'](_0x5086f3(0x163))['style'][_0x5086f3(0x165)]=_0x5086f3(0x160),document[_0x5086f3(0x14e)](_0x5086f3(0x15b))['style'][_0x5086f3(0x165)]=_0x5086f3(0x160),document[_0x5086f3(0x14e)](_0x5086f3(0x15f))[_0x5086f3(0x15e)][_0x5086f3(0x165)]=_0x5086f3(0x160),document['getElementById'](_0x5086f3(0x15a))[_0x5086f3(0x15e)][_0x5086f3(0x165)]='rgba(255,\x20255,\x20255,\x200.35)',document[_0x5086f3(0x14e)]('miscp')[_0x5086f3(0x15e)][_0x5086f3(0x165)]=_0x5086f3(0x160),document[_0x5086f3(0x14e)](_0x5086f3(0x153))['hidden']=!![],document[_0x5086f3(0x14e)](_0x5086f3(0x150))[_0x5086f3(0x162)]=!![],document['getElementById'](_0x5086f3(0x154))['hidden']=!![],document[_0x5086f3(0x14e)](_0x5086f3(0x168))[_0x5086f3(0x162)]=!![],document['getElementById']('text')[_0x5086f3(0x162)]=!![],document['getElementById'](_0x5086f3(0x152))[_0x5086f3(0x162)]=!![],document[_0x5086f3(0x14e)](_0x5086f3(0x164))[_0x5086f3(0x162)]=!![],document[_0x5086f3(0x14e)](_0x5086f3(0x161))[_0x5086f3(0x162)]=!![];}function news(){var _0x306c72=_0x8d90;closeall(),document['getElementById'](_0x306c72(0x153))[_0x306c72(0x162)]=![],document[_0x306c72(0x14e)]('newsp')[_0x306c72(0x15e)][_0x306c72(0x165)]=_0x306c72(0x16a);}function webtools(){var _0x439ba7=_0x8d90;closeall(),document[_0x439ba7(0x14e)]('web')['hidden']=![],document['getElementById'](_0x439ba7(0x166))['style'][_0x439ba7(0x165)]=_0x439ba7(0x16a);}function nettools(){var _0x18ba8a=_0x8d90;closeall(),document[_0x18ba8a(0x14e)](_0x18ba8a(0x154))[_0x18ba8a(0x162)]=![],document[_0x18ba8a(0x14e)](_0x18ba8a(0x14d))['style'][_0x18ba8a(0x165)]=_0x18ba8a(0x16a);}function _0x3a74(){var _0x3a8f35=['webp','7186570KRTbFB','code','newsp','white','2075kSFJNb','netp','getElementById','1405614blajOs','web','3576321cdwgYY','fraud','news','net','919InXNuz','text','5695840rrkNiu','2364mSNToX','1459004eqRAVC','fraudp','textp','9XucDUm','3000deHHoW','style','discp','rgba(255,\x20255,\x20255,\x200.35)','misc','hidden','codep','disc','color'];_0x3a74=function(){return _0x3a8f35;};return _0x3a74();}function codetools(){var _0x3a774f=_0x8d90;closeall(),document['getElementById'](_0x3a774f(0x168))[_0x3a774f(0x162)]=![],document[_0x3a774f(0x14e)]('codep')[_0x3a774f(0x15e)][_0x3a774f(0x165)]=_0x3a774f(0x16a);}function texttools(){var _0x5b70a4=_0x8d90;closeall(),document['getElementById'](_0x5b70a4(0x156))['hidden']=![],document[_0x5b70a4(0x14e)](_0x5b70a4(0x15b))[_0x5b70a4(0x15e)][_0x5b70a4(0x165)]='white';}function fraudtools(){var _0x204d74=_0x8d90;closeall(),document['getElementById'](_0x204d74(0x152))['hidden']=![],document[_0x204d74(0x14e)](_0x204d74(0x15a))[_0x204d74(0x15e)][_0x204d74(0x165)]=_0x204d74(0x16a);}function disctools(){var _0x26d6ab=_0x8d90;closeall(),document[_0x26d6ab(0x14e)]('disc')[_0x26d6ab(0x162)]=![],document[_0x26d6ab(0x14e)](_0x26d6ab(0x15f))[_0x26d6ab(0x15e)][_0x26d6ab(0x165)]='white';}function misctools(){var _0x23cba2=_0x8d90;closeall(),document[_0x23cba2(0x14e)](_0x23cba2(0x161))['hidden']=![],document['getElementById']('miscp')[_0x23cba2(0x15e)][_0x23cba2(0x165)]='white';}function _0x8d90(_0x3cc642,_0x473dd5){var _0x3a7401=_0x3a74();return _0x8d90=function(_0x8d9049,_0x230b85){_0x8d9049=_0x8d9049-0x14c;var _0x12b861=_0x3a7401[_0x8d9049];return _0x12b861;},_0x8d90(_0x3cc642,_0x473dd5);}news();
+function closeall() {
+    document.getElementById("newsp").style.color = "rgba(255, 255, 255, 0.35)"
+    document.getElementById("webp").style.color = "rgba(255, 255, 255, 0.35)"
+    document.getElementById("netp").style.color = "rgba(255, 255, 255, 0.35)"
+    document.getElementById("codep").style.color = "rgba(255, 255, 255, 0.35)"
+    document.getElementById("textp").style.color = "rgba(255, 255, 255, 0.35)"
+    document.getElementById("discp").style.color = "rgba(255, 255, 255, 0.35)"
+    document.getElementById("fraudp").style.color = "rgba(255, 255, 255, 0.35)"
+    document.getElementById("miscp").style.color = "rgba(255, 255, 255, 0.35)"
+    document.getElementById("news").hidden = true;
+    document.getElementById("web").hidden = true;
+    document.getElementById("net").hidden = true;
+    document.getElementById("code").hidden = true;
+    document.getElementById("text").hidden = true;
+    document.getElementById("fraud").hidden = true;
+    document.getElementById("disc").hidden = true;
+    document.getElementById("misc").hidden = true;
+}
+
+
+function news() {
+    closeall()
+    document.getElementById("news").hidden = false;
+    document.getElementById("newsp").style.color = "white";
+    document.getElementById("newsContainer").style.overflow = "hidden";
+    document.getElementById("newsContainer").innerHTML = '<iframe style="height: 100%; width: 100%;" id="newsHTML" src="./Tools/news.html"></iframe>';
+}
+
+function webtools() {
+    closeall()
+    document.getElementById("web").hidden = false;
+    document.getElementById("webp").style.color = "white";
+}
+
+function nettools() {
+    closeall()
+    document.getElementById("net").hidden = false;
+    document.getElementById("netp").style.color = "white";
+}
+
+function codetools() {
+    closeall()
+    document.getElementById("code").hidden = false;
+    document.getElementById("codep").style.color = "white";
+}
+
+function texttools() {
+    closeall()
+    document.getElementById("text").hidden = false;
+    document.getElementById("textp").style.color = "white";
+}
+
+function fraudtools() {
+    closeall()
+    document.getElementById("fraud").hidden = false;
+    document.getElementById("fraudp").style.color = "white";
+}
+
+function disctools() {
+    closeall()
+    document.getElementById("disc").hidden = false;
+    document.getElementById("discp").style.color = "white";
+}
+
+function misctools() {
+    closeall()
+    document.getElementById("misc").hidden = false;
+    document.getElementById("miscp").style.color = "white";
+}
+
+news();
