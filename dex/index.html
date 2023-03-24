@@ -24,6 +24,10 @@
   <!--Resources-->
   <link rel="stylesheet" href="https://dark-dex.web.app/Resources/dashboard.css">
   <script src="https://kit.fontawesome.com/25d9666422.js" crossorigin="anonymous"></script>
+  <!--Share-->
+  <link rel="preload" href="https://cdn.shareaholic.net/assets/pub/shareaholic.js" as="script" />
+  <meta name="shareaholic:site_id" content="0b73c30f57ebfac8d28d90e674d29701" />
+  <script data-cfasync="false" async src="https://cdn.shareaholic.net/assets/pub/shareaholic.js"></script>
 </head>
 <body>
 
@@ -51,7 +55,7 @@
     </section>
 
     <section id="web" class="page">
-        <div class="container">
+        <div id="webContainer" class="container">
           <p>No web tools.</p>
         </div>
       </section>
@@ -94,7 +98,7 @@
 
   </main>
     <script src="https://dark-dex.web.app/Resources/dashboard.js"></script>
-    <script src="./Resources/dashboard.js"
+    <script src="./Resources/dashboard.js"></script>
     <script type="module">
         import { initializeApp } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-app.js";
         import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-analytics.js";
