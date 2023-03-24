@@ -30,6 +30,8 @@ function webtools() {
     closeall()
     document.getElementById("web").hidden = false;
     document.getElementById("webp").style.color = "white";
+    document.getElementById("webContainer").style.overflow = "hidden";
+    document.getElementById("webContainer").innerHTML = '<iframe style="height: 100%; width: 100%;" id="webHTML" src="./Tools/website.html"></iframe>';
 }
 
 function nettools() {
