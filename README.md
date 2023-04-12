@@ -1,4 +1,4 @@
-# What is Photoshop?
+# What is Adobe Audition?
 Adobe Audition is a stand-alone audio editing and sound-mixing program that allows you to edit and apply effects to the audio from video footage. Audition includes multitrack, waveform, and spectral display for creating, mixing, editing, and restoring audio content.
 # Features and Benefits: 
 * Record, edit, and integrate audio clips  
